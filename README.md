@@ -13,3 +13,5 @@
 </pre>
 
 </center>
+
+Hi, it’s Syke! 🚀 Currently a junior **computer science** student at Polytechnic University of the Philippines - Manila, I am interested to be a data scientist. I used to describe myself to be a _math enthusiast_ in high school, and that interest still remains, just now in a different field. Despite years of unlocking and opening doors, I know that I still have a lot to learn. I continue to strive and yearn for knowledge and excellence, and I aspire to utilize these for doing and creating things that are helpful to the community.
